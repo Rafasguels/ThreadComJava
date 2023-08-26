@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>TesteThread</name>
+=======
+	<name>TesteDeThread</name>
+>>>>>>> e9d2921fc679c267d4becfc6086d5953548b894e
 	<comment></comment>
 	<projects>
 	</projects>
